@@ -58,6 +58,7 @@ Ensure you have the following tools installed before running the application:
     - **URL:** `/tasks/findFirst10TasksByAssignee?assignee={assigneeName}`
     - **Method:** `GET`
     - **Description:** Retrieve the first 10 tasks for the specified assignee, sorted by start time.
+      
 <img width="1440" alt="Screenshot 2024-01-12 at 2 51 49 PM" src="https://github.com/Arunodhai/Kaiburr-Tasks/assets/60264218/9913782a-f9ba-4e7a-8b76-6ecdc7c6a483"><img width="1440" alt="Screenshot 2024-01-12 at 2 52 09 PM" src="https://github.com/Arunodhai/Kaiburr-Tasks/assets/60264218/5d693104-20c8-4b7d-99db-f77c2652f74c">
 <br/><br/><br/><br/>
 
