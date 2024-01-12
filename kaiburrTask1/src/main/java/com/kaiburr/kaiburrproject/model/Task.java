@@ -1,12 +1,10 @@
 package com.kaiburr.kaiburrproject.model;
 
-import com.mongodb.client.model.CollationStrength;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.data.mongodb.core.query.Collation;
 
 import java.util.Date;
 
