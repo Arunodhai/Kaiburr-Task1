@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 import org.apache.commons.lang3.RandomStringUtils;
 
 import java.util.Comparator;
-import java.util.UUID;
 
 
 import java.util.List;
@@ -36,10 +35,6 @@ public class TaskService {
 
     public void deleteTask(String id) {
         taskRepository.deleteById(id);
-    }
-
-    public List<Task> findTasksByName(String name) {
-        return taskRepository.findByNameContaining(name);
     }
 
     public List<Task> findFirst10TasksByAssignee(String assignee) {
