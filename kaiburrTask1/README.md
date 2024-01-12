@@ -17,7 +17,8 @@ Ensure you have the following tools installed before running the application:
     - **Method:** `GET`
     - **Description:** Retrieve the list of all tasks.
 <img width="1440" alt="Screenshot 2024-01-12 at 2 35 41 PM" src="https://github.com/Arunodhai/Kaiburr-Tasks/assets/60264218/899eff76-7e5a-4a99-80d8-533445a38927">
-
+<br/><br/>
+<br/><br/>
 
 
 2. **Get Task by ID**
